@@ -10,7 +10,7 @@
 
 <!--This is another way (and the best) -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/118013699/201414676-d74dfdc2-83e4-4879-b496-177663599806.gif" width="550" height="550"/>
+<img src="https://user-images.githubusercontent.com/118013699/201414676-d74dfdc2-83e4-4879-b496-177663599806.gif" width="500" height="500"/>
 </p>
 
 ## More about the project
@@ -18,8 +18,11 @@
 - Rainsmore Workshop 2022: <https://www.rainsmoreird.com/?lang=en>
 - Rainsmore Repositories: <https://github.com/rainsmore?tab=repositories>
 
+<p align="center"> 
+:cloud_with_rain: - :cloud_with_lightning_and_rain: - :sun_behind_rain_cloud: - :partly_sunny: - :seedling: - 🍃 - 🛰️ - 📡 - 🌍 - 🌎 
+</p>
+ 
 ##
-
 <div>
   <a href = "mailto:rainsmore.ird@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
